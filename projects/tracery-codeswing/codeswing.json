@@ -1,0 +1,7 @@
+{
+  "scripts": [
+    "https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js",
+    "https://cdn.rawgit.com/v21/tracery/master/tracery.js"
+  ],
+  "styles": []
+}
