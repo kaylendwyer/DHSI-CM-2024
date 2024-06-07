@@ -1,8 +1,6 @@
-# Critical Making Example
+# DHSI Critical Making Class
 
-Here is some text.
+[Vogon Poetry](./Vogon-poetry/index.html)
+According to Douglas Adam's _Hitchhiker's Guide to the Galaxy_ Vogons are known for writing the third worst poetry in the universe. 
 
-## Projects
-
-- [P5](#)
-- [Tracery](#)
+This project uses [Tracery](https://www.tracery.io/) to generate poetry based on the 
